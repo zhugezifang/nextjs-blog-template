@@ -9,12 +9,12 @@ export function getBreadcrumbItems(pathname: string, dict: any) {
   
   for (const path of paths) {
     switch(path) {
-      case 'game':
+      case 'blog':
         // 只有当不是最后一个路径时才添加链接
         if (paths.length > 1) {
           items.push({
             label: dict.nav.blog,
-            href: `/${lang}/game`
+            href: `/${lang}/blog`
           })
         } else {
           items.push({
@@ -48,7 +48,7 @@ export function getBreadcrumbItems(pathname: string, dict: any) {
         break
       default:
         // 处理博客文章等动态路由
-        if (paths[paths.length - 2] === 'game') {
+        if (paths[paths.length - 2] === 'blog') {
           const post = dict.blog.posts.find((p: any) => p.slug === path)
           items.push({
             label: post ? post.title : path
