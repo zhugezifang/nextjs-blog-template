@@ -1,0 +1,266 @@
+{
+  "nav": {
+    "features": "Features",
+    "blog": "Game",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "signin": "Sign in",
+    "download": "Download",
+    "signout": "Sign out",
+    "profile": "Profile"
+  },
+  "home": {
+    "game":{
+      "title":"old game",
+      "more":"more"
+    },
+    "hero": {
+      "title": "Browse More Efficiently",
+      "description": "Our Chrome extension helps you better manage tabs and improve productivity",
+      "learnMore": "Learn More",
+      "watchDemo": "Watch Demo"
+    },
+    "cta": {
+      "title": "Get Started Now",
+      "description": "Download our Chrome extension for free and enhance your browsing experience",
+      "button": "Get Chrome Extension"
+    }
+  },
+  "footer": {
+    "product": "Product",
+    "resources": "Resources",
+    "social": "Social",
+    "support": "Support",
+    "company": "Company",
+    "copyright": "© 2024 Chrome Extension. All rights reserved.",
+    "links": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "changelog": "Changelog",
+      "roadmap": "Roadmap",
+      "docs": "Docs",
+      "dev": "Dev",
+      "api": "API",
+      "faq": "FAQ",
+      "help": "Help",
+      "contact": "Contact",
+      "feedback": "Feedback",
+      "status": "Status",
+      "about": "About",
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "jobs": "Jobs",
+      "blog": "Blog",
+      "twitter": "Twitter",
+      "github": "Github",
+      "jike": "Jike",
+      "xhs": "XiaoHongShu",
+      "bento": "Bento",
+      "freeourdays": "Free Our Days",
+      "githubtree": "Github Tree Map",
+      "distributer": "Distributer"
+    }
+  },
+  "metadata": {
+    "title": "Online Game",
+    "description": "Online Game Provide super mario and battle city old gamem,give you a better game experience",
+    "keywords": ""
+  },
+  "common": {
+    "brand": "Online Game",
+    "loading": "Loading..."
+  },
+  "features": {
+    "title": "Powerful Features",
+    "description": "Explore our core features to take your browsing experience to the next level",
+    "tabs": {
+      "title": "Tab Management",
+      "description": "Easily manage your tabs to boost productivity"
+    },
+    "bookmarks": {
+      "title": "Bookmark Management",
+      "description": "Quickly access your bookmarks to enhance browsing efficiency"
+    },
+    "share": {
+      "title": "Share",
+      "description": "Easily share your tabs to boost collaboration efficiency"
+    },
+    "security": {
+      "title": "Security",
+      "description": "Protect your privacy and enhance browsing security"
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "description": "Find answers to commonly asked questions",
+    "tabs": {
+      "general": "General",
+      "features": "Features",
+      "technical": "Technical"
+    },
+    "questions": {
+      "general": [
+        {
+          "question": "Is this extension free?",
+          "answer": "Yes, we offer a free version for all users. We also provide a paid Pro version with additional advanced features."
+        },
+        {
+          "question": "How do I install the extension?",
+          "answer": "You can download it directly from the Chrome Web Store or click the 'Download' button on our website."
+        }
+      ],
+      "features": [
+        {
+          "question": "How many tabs can I manage?",
+          "answer": "Free version supports up to 50 tabs, while Pro version has no limit."
+        },
+        {
+          "question": "Does it support tab grouping?",
+          "answer": "Yes, we support both custom grouping and smart grouping features."
+        }
+      ],
+      "technical": [
+        {
+          "question": "Which browsers are supported?",
+          "answer": "Currently supports Chrome, Edge and other Chromium-based browsers."
+        },
+        {
+          "question": "Where is my data stored?",
+          "answer": "All data is stored locally on your device. We don't upload your browsing data."
+        }
+      ]
+    }
+  },
+  "blog": {
+    "backToList": "Back to Blog List",
+    "title": "All Online Game",
+    "description": "All Online Game",
+    "loadMore": "Load More",
+    "posts": [
+          {
+            "id": 1,
+            "title": "Super Mario",
+            "description": "Super Mario",
+            "img":"images/supermario.png",
+            "date": "2024-03-15",
+            "readTime": "10分钟阅读",
+            "slug": "supermario-online"
+          },
+          {
+          "id": 2,
+          "title": "Battle City",
+          "description": "Battle City",
+          "img":"images/battle-city.png",
+          "date": "2024-03-15",
+          "readTime": "10分钟阅读",
+          "slug": "battle-city"
+        }
+       ]
+  },
+  "auth": {
+    "signin": {
+      "title": "Welcome back",
+      "description": "Enter your email and password to sign in",
+      "submitButton": "Sign in",
+      "noAccount": "Don't have an account?",
+      "signupLink": "Sign up",
+      "errors": {
+        "userNotFound": "User not found",
+        "wrongPassword": "Incorrect password"
+      },
+      "success": "Sign in successful!",
+      "error": "Sign in failed, please check your email and password!"
+    },
+    "signup": {
+      "title": "Create an account",
+      "description": "Enter your email and password to sign up",
+      "submitButton": "Sign up",
+      "hasAccount": "Already have an account?",
+      "signinLink": "Sign in",
+      "success": "Sign up successful!",
+      "error": "Sign up failed, please check your email and password!"
+    },
+    "form": {
+      "email": "Email",
+      "password": "Password",
+      "emailPlaceholder": "name@example.com",
+      "continueWith": "Or continue with",
+      "errors": {
+        "emailRequired": "Please enter your email",
+        "passwordRequired": "Please enter your password"
+      }
+    },
+    "signout": {
+      "success": "Sign out successful!"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "tabs": {
+      "profile": "Profile",
+      "subscription": "Subscription",
+      "settings": "Settings"
+    },
+    "basicInfo": "Basic Information",
+    "email": "Email",
+    "joinDate": "Join Date",
+    "subscription": "Subscription",
+    "currentPlan": "Current Plan",
+    "freePlan": "Free Plan",
+    "proPlan": "Pro Plan",
+    "expireDate": "Expire Date",
+    "settings": "Settings",
+    "settingsComingSoon": "More settings coming soon..."
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "description": "Choose the plan that's right for you, upgrade or downgrade anytime",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "$0",
+        "description": "Perfect for individual users",
+        "features": [
+          "Manage up to 50 tabs",
+          "Basic tab grouping",
+          "Quick bookmarking",
+          "Basic analytics"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$9",
+        "description": "Great for power users",
+        "features": [
+          "Unlimited tab management",
+          "Advanced tab grouping",
+          "Cloud sync",
+          "Detailed analytics",
+          "Priority support",
+          "Custom themes"
+        ]
+      },
+      "team": {
+        "name": "Team",
+        "price": "$29",
+        "description": "Best for team collaboration",
+        "features": [
+          "All Pro features",
+          "Team collaboration",
+          "Shared bookmarks",
+          "Team analytics",
+          "Dedicated manager",
+          "API access"
+        ]
+      }
+    },
+    "cta": {
+      "free": "Start Free",
+      "paid": "Get Started"
+    },
+    "footer": {
+      "refund": "All plans come with a 14-day money-back guarantee. If you have any questions,",
+      "contact": "contact us"
+    }
+  }
+}
