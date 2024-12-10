@@ -24,7 +24,7 @@ export default async function BlogPage({ params: { lang } }: { params: { lang: L
 
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {posts.map(post => (
-          <Link key={post.id} href={`/${lang}/game/${post.slug}`}>
+          <Link key={post.id} href={`/${lang}/blog/${post.slug}`}>
             <Card className="h-full hover:shadow-lg transition-shadow">
               <CardHeader>
                 <CardTitle>{post.title}</CardTitle>
@@ -59,16 +59,16 @@ export async function generateMetadata({
     title: dict.blog.title,
     description: dict.blog.description,
     alternates: {
-      canonical: `${url}/${lang}/game`,
+      canonical: `${url}/${lang}/blog`,
       languages: {
-        'en': `${url}/en/game`,
-        'zh': `${url}/zh/game`,
+        'en': `${url}/en/blog`,
+        'zh': `${url}/zh/blog`,
       },
     },
     openGraph: {
       title: dict.blog.title,
       description: dict.blog.description,
-      url: `${url}/${lang}/game`,
+      url: `${url}/${lang}/blog`,
     }
   }
 }

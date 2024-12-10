@@ -23,9 +23,10 @@ export default async function Navbar({
         <nav className="flex flex-1 items-center justify-between space-x-2 md:justify-end">
           <div className="flex-1 md:flex-none">
             <div className="hidden items-center space-x-4 md:flex">
-              {/*<Link href={`/${lang}/game`} className="text-base font-medium transition-colors hover:text-primary">
+              <Link href={`/${lang}/blog`} className="text-base font-medium transition-colors hover:text-primary">
                 {dict.nav.blog}
               </Link>
+              {/*
               <Link href={`/${lang}/pricing`} className="text-sm font-medium transition-colors hover:text-primary">
                 {dict.nav.pricing}
               </Link>

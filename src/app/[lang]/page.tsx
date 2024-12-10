@@ -29,7 +29,7 @@ export default async function Home({
 
           <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-6">
             {posts.map(post => (
-              <a href={`/${lang}/game/${post.slug}`}>
+              <a href={`/${lang}/blog/${post.slug}`}>
                 <div className="text-center">
                   <div className="relative w-full h-32 bg-black rounded-lg overflow-hidden">
                     <img src={post.img} alt={post.title} className="object-cover w-full h-full"/>
