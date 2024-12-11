@@ -19,7 +19,7 @@ export default async function sitemap() {
     })
 
     // 添加固定页面
-    const staticPages = ['game']
+    const staticPages = ['blog']
     for (const page of staticPages) {
       sitemapEntries.push({
         url: `${baseUrl}/${locale}/${page}`,
@@ -32,7 +32,7 @@ export default async function sitemap() {
     // 添加博客文章页面
     for (const post of posts) {
       sitemapEntries.push({
-        url: `${baseUrl}/${locale}/game/${post.slug}`,
+        url: `${baseUrl}/${locale}/blog/${post.slug}`,
         lastModified: new Date(post.date),
         changeFrequency: 'monthly',
         priority: 0.6,
