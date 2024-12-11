@@ -9,8 +9,8 @@ url: "https://supermariogame.org/mario.html"
 
 在2024年，长图片分割工具的需求日益增长，这些工具能够帮助用户高效地处理和编辑图片。以下是今年最好的10个长图片分割工具网站，它们各自以其独特的功能和优势脱颖而出。
 
-## 0. ImageSplit Online
-[ImageSplit](https://image-splitter.online) 是一个绿色、纯净、免费的图片分割软件，可以对电脑中的图片进行快速分割处理，支持JPG、PNG等多种图片格式，同时还可以读取扫描传输的图片，并对其进行修改、编辑、分割。
+## 0. Image Splitter Online
+[Image Splitter Online](https://image-splitter.online) 是一个绿色、纯净、免费的图片分割软件，可以对电脑中的图片进行快速分割处理，支持JPG、PNG等多种图片格式，同时还可以读取扫描传输的图片，并对其进行修改、编辑、分割。
 
 ![image-split-online-01](/images/image-split-online-01.jpg)
 
