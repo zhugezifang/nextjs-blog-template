@@ -78,6 +78,8 @@ export default async function RootLayout({
   return (
     <html lang={lang} suppressHydrationWarning>
       <head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4158779929727637"
+           crossOrigin="anonymous"></script>
       <meta name="google-site-verification" content="UuFT61A3zra1kfyVyhHqNZffLbgbBw_OdgNpWNH0TnI" />
       <script
                   async
