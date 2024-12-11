@@ -45,7 +45,7 @@ export default async function Home({
             <section className="py-8 md:py-12 lg:py-16">
               <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
                 <div className="text-center">
-                  <h2 className="text-2xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">{indexFeatureText.h2_0}</h2>
+                  <h2 className="text-4xl font-bold leading-tight text-black sm:text-4xl lg:text-4xl">{indexFeatureText.h2_0}</h2>
                 </div>
                 <div className="px-5 py-6 mt-8 bg-white lg:mt-12 lg:p-12">
                   <div className="grid grid-cols-1 gap-8 lg:gap-12 sm:grid-cols-2">
@@ -125,7 +125,7 @@ export default async function Home({
               <section>
                 <div className="mx-auto flex w-full max-w-7xl flex-col items-center px-5 py-16 md:px-10 md:py-20">
                   <div className="mx-auto flex max-w-xl flex-col items-center justify-center px-6 text-center lg:max-w-3xl lg:px-10">
-                    <h2 className="text-3xl lg:text-5xl font-bold text-black">{questionText.h2_0}</h2>
+                    <h2 className="text-4xl lg:text-4xl font-bold text-black">{questionText.h2_0}</h2>
                   </div>
                   <div className="mt-10 flex w-full flex-col">
                     <div className="relative my-3 w-full rounded-md px-6 py-8">
