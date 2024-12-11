@@ -37,7 +37,7 @@ Once you've chosen your images and tool, it's time to arrange them. Consider the
 - **Contrast**: Use images that contrast with each other to create a dynamic and engaging split image.
 - **Flow**: Arrange images in a way that guides the viewer's eye through the sequence or story you're telling.
 
-![Instagram](images/image-split-ins.jpg)
+![image split for ins](images/image-split-ins.jpg)
 
 ### Step 5: Edit for Consistency
 
