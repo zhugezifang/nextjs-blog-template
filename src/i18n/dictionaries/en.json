@@ -178,28 +178,19 @@
   },
   "blog": {
     "backToList": "Back to Blog List",
-    "title": "All Online Game",
-    "description": "All Online Game",
+    "title": "Image Splitter Blog List",
+    "description": "share Image Splitter experience and blog",
     "loadMore": "Load More",
     "posts": [
           {
             "id": 1,
-            "title": "Super Mario",
+            "title": "How to Split Image For Instagram",
             "description": "Super Mario",
             "img":"images/supermario.png",
             "date": "2024-03-15",
             "readTime": "10分钟阅读",
-            "slug": "supermario-online"
-          },
-          {
-          "id": 2,
-          "title": "Battle City",
-          "description": "Battle City",
-          "img":"images/battle-city.png",
-          "date": "2024-03-15",
-          "readTime": "10分钟阅读",
-          "slug": "battle-city"
-        }
+            "slug": "image-splitter-instagram"
+          }
        ]
   },
   "auth": {
