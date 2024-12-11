@@ -11,7 +11,7 @@ url: "https://supermariogame.org/mario.html"
 
 Instagram is a visual playground where creativity knows no bounds. One of the most engaging and creative ways to share content on this platform is through split images. Split images, also known as diptychs or multi-image posts, allow you to combine multiple photos into a single post, telling a more comprehensive story or showcasing different perspectives of the same subject. In this article, we'll explore how to effectively split images for Instagram, ensuring your content stands out and captivates your audience.
 
-![Instagram](/images/instagram.jpg)
+![Instagram](/images/ins.jpeg)
 
 ### Step 1: Choose Your Theme or Story
 

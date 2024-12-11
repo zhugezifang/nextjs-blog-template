@@ -12,9 +12,9 @@ url: "https://supermariogame.org/mario.html"
 ## 0. Image Splitter Online
 [Image Splitter Online](https://image-splitter.online) 是一个绿色、纯净、免费的图片分割软件，可以对电脑中的图片进行快速分割处理，支持JPG、PNG等多种图片格式，同时还可以读取扫描传输的图片，并对其进行修改、编辑、分割。
 
-![image-split-online-01](/images/image-split-online-01.jpg)
+![image-split-online-01](/images/image-split-online-01.png)
 
-![image-split-online-02](/images/image-split-online-02.jpg)
+![image-split-online-02](/images/image-split-online-02.png)
 
 ## 1. Segment Anything Model（SAM）
 由Meta AI开发的SAM是一个多功能分割模型，旨在与任何图像一起工作，允许用户通过几次点击就能执行物体分割。它支持各种类型的输入提示，如边界框或文本，使其非常灵活。SAM利用大规模标注图像数据集，采用基于提示的分割方法。它使用视觉变换器（ViTs）作为骨干，并根据用户指定的提示适应不同的分割需求。
