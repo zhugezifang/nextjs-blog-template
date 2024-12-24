@@ -23,17 +23,13 @@ Splitting images has many uses:
 
 Many online tools can split images. Here are some common ones:
 
-### 3. **ImageSplitter**
+### 0. **ImageSplitter**
 [ImageSplitter](https://image-splitter.online) can split image online to 2,3,4,9 or more parts.
 
 - **Steps to Use ImageSplitter:**
   1. Upload your image.
   2. Enter the number of rows and columns.
   3. Download the split images.
-
-![image splitter in 3](/images/image-split-ins.jpg)
-
-![image splitter in 2](https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/8bb8471c-e467-4e35-a64a-6ba552589491.png)
 
 
 ### 1. **PineTools**
@@ -68,10 +64,12 @@ Many online tools can split images. Here are some common ones:
 
 - **When to Use**: Divide an image into two equal halves.
 - **How to Do It**:
-  1. Use PineTools.
+  1. Use ImageSplitter.
   2. Upload your image.
   3. Pick "Split into 2 parts" (horizontal or vertical).
   4. Download the two halves.
+
+![image splitter in 2](https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/03667d04-8856-47a4-ba14-f63aa1408368.png)
 
 ### Splitting into 3 Parts
 
@@ -81,21 +79,28 @@ Many online tools can split images. Here are some common ones:
   2. Choose 3 columns (or rows).
   3. Download the images.
 
+![image splitter in 3](https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/2d6a9f54-2c6e-499a-a06a-cc3eadedfc13.png)
+
 ### Splitting into 4 Parts
 
 - **When to Use**: Works well for Instagram grids or collages.
 - **How to Do It**:
-  1. Use Canva or PhotoSplit.
+  1. Use ImageSplitter.
   2. Pick a 2x2 grid layout.
   3. Save each section.
+
+![image splitter in 4](https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/8bb8471c-e467-4e35-a64a-6ba552589491.png)
 
 ### Splitting into 9 Parts
 
 - **When to Use**: Often used for Instagram grids.
 - **How to Do It**:
-  1. Use PhotoSplit.
+  1. Use ImageSplitter.
   2. Pick a 3x3 grid.
   3. Download all nine images.
+
+![image splitter in 9](/images/image-split-ins.jpg)
+
 
 ### Splitting into More Parts
 
@@ -105,8 +110,6 @@ Many online tools can split images. Here are some common ones:
   2. Set the rows and columns.
   3. Download the parts.
 
----
-
 ## Tips for Effective Image Splitting
 
 1. **Use High-Resolution Images**: This keeps quality good after splitting.
@@ -114,8 +117,6 @@ Many online tools can split images. Here are some common ones:
 3. **Preview Before Downloading**: Check the result to avoid mistakes.
 4. **Choose the Right File Format**: Save images as PNG or JPEG.
 5. **Backup the Original**: Keep the original file safe.
-
----
 
 ## Advanced Techniques
 
