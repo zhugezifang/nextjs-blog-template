@@ -106,7 +106,7 @@ Many online tools can split images. Here are some common ones:
 
 - **When to Use**: Needed for mosaics or large grids.
 - **How to Do It**:
-  1. Use PineTools or ImageSplitter.
+  1. Use ImageSplitter.
   2. Set the rows and columns.
   3. Download the parts.
 
