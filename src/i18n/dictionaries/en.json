@@ -185,11 +185,20 @@
           {
             "id": 1,
             "title": "How to Split Image For Instagram",
-            "description": "Super Mario",
+            "description": "How to Split Image For Instagram",
             "img":"images/supermario.png",
-            "date": "2024-03-15",
+            "date": "2024-12-15",
             "readTime": "10分钟阅读",
             "slug": "image-splitter-instagram"
+          },
+          {
+            "id": 2,
+            "title": "How to Split an Image into 2, 3, 4, 9, or More Parts",
+            "description": "How to Split an Image into 2, 3, 4, 9, or More Parts",
+            "img":"images/supermario.png",
+            "date": "2024-12-24",
+            "readTime": "10分钟阅读",
+            "slug": "how-to-split-image-parts"
           }
        ]
   },
