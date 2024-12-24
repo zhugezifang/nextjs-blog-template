@@ -1,5 +1,5 @@
 ---
-title: "How to Split an Image into 2, 3, 4, 9, or More Parts"
+title: "How to Split an Image into 2, 3, 4, 9 or More Parts"
 description: "Splitting an image into parts is a common task. It is useful for graphic design, web development, and creative projects. You can divide an image for photo collages, social media grids, or printing. Online tools make this process quick and easy. This guide explains how to split images into 2, 3, 4, 9, or more parts online."
 date: "2024-12-24"
 author: "张三1"
@@ -7,7 +7,8 @@ readTime: "10分钟阅读"
 url: "https://supermariogame.org/mario.html"
 ---
 
-Splitting an image into parts is a common task. It is useful for graphic design, web development, and creative projects. You can divide an image for photo collages, social media grids, or printing. Online tools make this process quick and easy. This guide explains how to split images into 2, 3, 4, 9, or more parts online.
+
+Splitting an image into parts is a common task. It is useful for graphic design, web development, and creative projects. You can divide an image for photo collages, social media grids, or printing. Online tools make this process quick and easy. This guide explains how to split images into 2, 3, 4, 9 or more parts online.
 
 ## Why Split an Image into Parts?
 
