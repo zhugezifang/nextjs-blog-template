@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "../globals.css";
 import Navbar from "@/components/navbar";
 import Footer from "@/components/footer";
-import { ThemeProvider } from "@/components/theme-provider";
+//import { ThemeProvider } from "@/components/theme-provider";
 import { locales } from '@/i18n/config'
 import type { Locale } from '@/i18n/config'
 import { getDictionary } from '@/i18n/get-dictionary'
@@ -99,12 +99,7 @@ export default async function RootLayout({
       </script> 
       </head>
       <body className={inter.className}>
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="system"
-          enableSystem
-          disableTransitionOnChange
-        >
+  
           <Toaster position="top-center" />
           <div className="relative flex min-h-screen flex-col">
             <div className="absolute inset-0 bg-gradient-to-b from-background/50 via-background/80 to-transparent pointer-events-none" />
@@ -117,7 +112,6 @@ export default async function RootLayout({
             </main>
             {footer}
           </div>
-        </ThemeProvider>
       </body>
     </html>
   )
