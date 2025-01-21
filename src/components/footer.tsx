@@ -13,7 +13,6 @@ export default async function Footer({
 
   const footerLinks = {
     [dict.footer.product]: [
-      { name: 'Line Graph Maker', href: `https://graph-maker.online` },
     ],
     [dict.footer.social]: [
       { name: dict.footer.links.twitter, href: `` },
