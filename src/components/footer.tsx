@@ -21,6 +21,7 @@ export default async function Footer({
       { name: dict.footer.links.xhs, href: `` },
     ],
     [dict.footer.support]: [
+      {name:`果汁资源导航`，href:`http://guozhivip.com/`},
     ],
     [dict.footer.company]: [
       { name: dict.footer.links.terms, href: `/${lang}/terms` },
