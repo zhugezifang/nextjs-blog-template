@@ -62,7 +62,7 @@ export async function generateMetadata({
     openGraph: {
       type: 'article',
       locale: params.lang,
-      url: `${url}/${params.lang}/game/${params.slug}`,
+      url: `${url}/${params.lang}/blog/${params.slug}`,
       title: post.title,
       description: post.description || dict.blog.description,
       publishedTime: post.date,
@@ -74,10 +74,10 @@ export async function generateMetadata({
       description: post.description || dict.blog.description,
     },
     alternates: {
-      canonical: `${url}/${params.lang}/game/${params.slug}`,
+      canonical: `${url}/${params.lang}/blog/${params.slug}`,
       languages: {
-        'en': `${url}/en/game/${params.slug}`,
-        'zh': `${url}/zh/game/${params.slug}`,
+        'en': `${url}/en/blog/${params.slug}`,
+        'zh': `${url}/zh/blog/${params.slug}`,
       },
     },
   }
